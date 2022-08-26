@@ -24,7 +24,7 @@ In 2018, Steve didn't get his parents great results. Most of the returns are in 
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/111100865/186846115-bd5edf2d-f84d-42b3-9e6f-39b0eed1c132.png)
 
- ### Summary
+ ## Summary
  
  #### Detailed statement on the advantages and disadvantages of refactoring code in general 
  
